@@ -8,7 +8,7 @@ page: homepage
 ---
 <div class="row">
     <div class="col-md-8">
-        <h2 class="mt-0">Draft Grants Management Data Standards Feedback</h2>
+        <h2 class="mt-0">Draft Grants Management Data Standards Feedback - Coming Soon </h2>
         <p>
             The Results-Oriented Accountability for Grants Cross Agency Priority Goal Team is excited to announce that a <strong>public comment page</strong> for the <strong>draft</strong> Grants Management Data Standards are expected to be released in November 2018. 
 
