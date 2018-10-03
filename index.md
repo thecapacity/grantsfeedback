@@ -18,7 +18,7 @@ As a valued stakeholder, we invite you to join the discussion and provide feedba
 
 Below is background on the Results-Oriented Accountability for Grants Cross Agency Priority (CAP) Goal and the upcoming <strong>draft</strong> Data Standards. 
 
-Stay tuned for updates! Join our Community of Practice at <a href="https://digital.gov/communities/grants">
+Stay tuned for updates! Join our Community of Practice at <a href="https://digital.gov/communities/grants">https://digital.gov/communities/grants</a>
 
 <h3>Overview</h3
 The <u>Results-Oriented Accountability for Grants Cross Agency Priority (CAP) Goal </u> is one of several CAP Goals established to drive the implementation of the <u>President’s Management Agenda (PMA)</u>. The PMA lays out a long-term vision for modernizing the Federal Government in key areas that will improve the ability of agencies to deliver mission outcomes, provide excellent service, and effectively steward taxpayer dollars on behalf of the American people. 
