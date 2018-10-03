@@ -12,7 +12,7 @@ page: homepage
         <p>
             The Results-Oriented Accountability for Grants Cross Agency Priority Goal Team is excited to announce that a <strong>public comment page</strong> for the <strong>draft</strong> Grants Management Data Standards are expected to be released in November 2018. 
 
-The <strong>draft<strong> Grants Management Data Standards will be pre-decisional, not to be interpreted as setting policy or official guidance. 
+The <strong>draft</strong> Grants Management Data Standards will be pre-decisional, not to be interpreted as setting policy or official guidance. 
 
 As a valued stakeholder, we invite you to join the discussion and provide feedback. 
 
