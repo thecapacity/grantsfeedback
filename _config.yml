@@ -1,9 +1,9 @@
 #document settings
 
-title: Financial Management Line of Business (FMLoB)
+title: Draft Grants Data Standards Feedback 
 desc: "Collaboration Space"
-url: /fedfmdataelements.github.io
-repo_name: fedfmdataelements.github.io
+url: grantsfeedback.cfo.gov
+repo_name: federalfinancialmanagement
 branch: master
 encoding: utf-8
 
@@ -29,10 +29,7 @@ whitelist:
 navigation:
  - title: Home
    url: /index.html
- - title: Data Elements
-   url: /data-elements
- - title: Get Involved
-   url: /get-involved
+
 
 sass:
   sass_dir:          assets/_scss
