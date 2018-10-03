@@ -35,5 +35,5 @@ To support progress towards this goal, drafts of the <strong>Data Standards</str
 
 Today, the Federal government does not have a robust, integrated approach to use the multitude of data generated throughout the grants lifecycle. To bring grants management to the digital age and allow recipients to focus more time on performing work that delivers results, there is a need to develop and implement core grants management data standards and modernize grants management information technology solutions.  The Grants Management Federal Integrated Business Framework (FIBF) has developed core grants management data standards that are being published here for your feedback.  Your contribution will contribute to a future state where grants data are interoperable, there are fewer internal and public-facing grants management systems, and Federal awarding agencies and recipients leverage data to successfully implement a risk-based, data-driven approach to managing Federal grants. 
 
-    </div>
+ 
 
