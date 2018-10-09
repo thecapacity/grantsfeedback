@@ -25,9 +25,11 @@ Stay tuned for updates! Join our Community of Practice at <a href="https://digit
 
 <p>
 <strong>The Results-Oriented Accountability for Grants CAP Goal seeks to:</strong>
-*Enable agencies to clearly articulate grant program goals and the results Federal Grant Investments*
-*Enable recipients and agencies to spend less time on administrative compliance*
-*Increase focus and efforts to achieve and report program results*
+<ul>
+ <li>Enable agencies to clearly articulate grant program goals and the results Federal Grant Investments</li>
+ <li>Enable recipients and agencies to spend less time on administrative compliance</li>
+ <li>Increase focus and efforts to achieve and report program results </li>
+    </ul>
 </p>
 To support progress towards this goal, drafts of the <strong>Data Standards</strong> will be released for public comment. 
 
