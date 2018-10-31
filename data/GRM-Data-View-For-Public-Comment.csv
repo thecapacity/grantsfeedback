@@ -1,5 +1,5 @@
 Process,Proposed Data Element Label, Proposed Data Element Definition, Proposed References, Proposed Domain Values
-010 Grant Program Administration, , , , ,
+010 Grant Program Administration, , , , 
 AgencyTypeCode,"A text code denoting the role of the Federal agency in the Grants management process (e.g. awarding agency, oversight agency, funding agency).","
 (2) 2 CFR 170.100;
 (3) 2 CFR 170.110;
