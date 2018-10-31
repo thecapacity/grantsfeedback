@@ -1,10 +1,7 @@
-,,,,
-"Elements that are used in multiple process areas will appear only once in the first functional area in which the element is used, or it will be colocated with similar elements for context alignment.",,,,
-,,,,
-Process Area,Proposed Data Element Label,Proposed Data Element Defintion,Proposed References ,"Proposed
- Domain Values"
-010 Grant Program Administration,,,,
-,AgencyTypeCode,"A text code denoting the role of the Federal agency in the Grants management process (e.g. awarding agency, oversight agency, funding agency).","(2) 2 CFR 170.100;
+Process,Proposed Data Element Label, Proposed Data Element Definition, Proposed References, Proposed Domain Values
+010 Grant Program Administration
+AgencyTypeCode,"A text code denoting the role of the Federal agency in the Grants management process (e.g. awarding agency, oversight agency, funding agency).","
+(2) 2 CFR 170.100;
 (3) 2 CFR 170.110;
 (4) 2 CFR 170.115;
 (17) 2 CFR 200.18;
@@ -3785,7 +3782,8 @@ Requested Total Budget Eligible Cost;"
 (55) 2 CFR 200.327;
 (56) 2 CFR 200.328;
 (62) 2 CFR 200.338;
-(65) 2 CFR 200.340;
+(65) 2 CFR 200.340
+;
 (65) 2 CFR 200.340;
 (66) 2 CFR 200.341;
 (68) 2 CFR 200.343;
@@ -3849,7 +3847,8 @@ Type A Program Risk Changed from Low to High;"
 (55) 2 CFR 200.327;
 (56) 2 CFR 200.328;
 (62) 2 CFR 200.338;
-(65) 2 CFR 200.340;
+(65) 2 CFR 200.340
+;
 (65) 2 CFR 200.340;
 (66) 2 CFR 200.341;
 (68) 2 CFR 200.343;
