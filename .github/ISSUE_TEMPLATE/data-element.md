@@ -4,9 +4,11 @@ about: Guidelines for Feedback on the Draft Grant Data Elements
 
 ---
 
-If you haven't already reviewed directions for provide feedback on the Draft Grant Data Elements, please first read http://strategy.data.gov/feedback/
+Please provide your feedback on the draft data elements for the draft grant data standards. **Please ensure that you reference which data element you are commenting on.** 
+
+Thank you! 
 
 When you create a new issue here on GitHub please fill out the template below. You can delete these instructions 
 
 -----
-Feedback Type (Practices, Use Case, Other)
+
