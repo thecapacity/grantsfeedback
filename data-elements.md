@@ -1,8 +1,10 @@
-
 ---
-title: Use Cases
-permalink: /use-cases/
-layout: page
+published: true
+permalink: /data-elements.html
+layout: article
+filename: data-elements.md
+title: Draft Grants Management Data Elements Feedback 
+page: homepage
 ---
 
 ## Draft Data Elements
