@@ -7,14 +7,15 @@ title: Draft Grants Management Data Elements Feedback
 page: child
 ---
 
-## Draft Data Elements
+## Federal Grants Data Management Data Elements Feedback 
 
-Many high-level civic data challenges have been identified in the past–archaic data management practices and IT legacy systems, issues with data sharing and interoperability, and a lack of secondary use considerations. But the Federal Government lacks an overall approach to tackle these challenges and prioritize data infrastructure improvements that serve the public. The Federal Data Strategy needs priority data Use Cases to ensure it is comprehensive and actionable.
+The Results-Oriented Accountability for Grants Cross Agency Priority Goal Team is soliciting feedback on the Federal Draft Grants Management Data Standards in order to develop and implement core grants management data standards and modernize information technology solutions. This information will be used to contribute to a future state where grants data are interoperable, there are fewer internal and public-facing grants management systems, and Federal awarding agencies and recipients leverage data to successfully implement a risk-based, data-driven approach to managing Federal grants. These draft data standards are a pre-decisional draft and should not be interpreted as setting policy or official guidance. 
 
-## What is a Use Case?
+## How You Can Help 
 
-For the purposes of the Federal Data Strategy, a “Use Case” is a data practice or method that leverages data to support an articulable federal agency mission or public interest outcome. The Federal Data Strategy is seeking examples that solve problems or demonstrate solutions that can help inform the four strategy areas: Enterprise Data Governance; Use, Access, and Augmentation; Decision-making and Accountability; and Commercialization, Innovation, and Public Use.
+To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs. Please note that to provide feedback you must use GitHub. If you don’t have a GitHub account please follow use this [sign up link](https://github.com/). 
 
+You can leave your feedback [here](https://github.com/OFFM-MCAB/grantsfeedback/issues/new/choose).  Please ensure that you reference which data element you are commenting on.
 
 <script type="text/javascript">
 
@@ -30,8 +31,8 @@ $(document).ready(function() {
 
 You may download the use case submissions we received. 
 
-[Download Draft Data Elements Raw Data CSV](/data/GRM-Data-View-For-Public-Comment-1.csv){: .usa-button}
+[Download Use Cases for Draft Data Elements] (/data/userguide.pdf) [Download Draft Data Elements Raw Data CSV](/data/GRM-Data-View-For-Public-Comment-1.csv){: .usa-button}
 
-You may also review the public comments submitted via our companion Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments (RFC) on FederalRegister.gov.
+
 
 
