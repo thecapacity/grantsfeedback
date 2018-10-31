@@ -4,7 +4,7 @@ permalink: /data-elements.html
 layout: article
 filename: data-elements.md
 title: Draft Grants Management Data Elements Feedback 
-page: homepage
+page: child
 ---
 
 ## Draft Data Elements
