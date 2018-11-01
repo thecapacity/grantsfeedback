@@ -31,7 +31,7 @@ $(document).ready(function() {
 
 You may download the use case submissions we received. 
 
-[Download Use Cases for Draft Data Elements](/data/userguide.pdf) [Download Draft Data Elements Raw Data CSV](/data/GRM-Data-View-For-Public-Comment-1.csv){: .usa-button}
+<a href="/assets/docs/use-case-summaries.pdf" class="usa-button">Download Use Case Summaries PDF</a> <a href="/data/GRM-Data-View-For-Public-Comment-1.csv" class="usa-button">Download Use Case Summaries PDF</a>
 
 
 
