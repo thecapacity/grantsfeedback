@@ -15,7 +15,9 @@ The Results-Oriented Accountability for Grants Cross Agency Priority Goal Team i
 
 To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs. Please note that to provide feedback you must use GitHub. If you don’t have a GitHub account please follow use this [sign up link](https://github.com/). 
 
-You can leave your feedback [here](https://github.com/OFFM-MCAB/grantsfeedback/issues/new/choose).  Please ensure that you reference which data element you are commenting on.
+Please ensure that you reference which data element you are commenting on.
+
+<a class="usa-button usa-button-secondary" target="_blank" href="https://github.com/OFFM-MCAB/grantsfeedback/issues/new/choose" onclick="ga('send', 'event', 'Viewed on Github', 'Clicked View on Github from inside site');">Leave Feedback</a>
 
 <script type="text/javascript">
 
