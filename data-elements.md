@@ -23,7 +23,7 @@ Please ensure that you reference which data element you are commenting on.
 
 $(document).ready(function() {
     init_table({
-     csv_path: '../data/GRM-Data-View-For-Public-Comment-1.csv',
+     csv_path: './data/GRM-Data-View-For-Public-Comment-1.csv',
      element: 'table-container',
     });
 } );
