@@ -17,8 +17,7 @@ To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs
 
 Please ensure that you reference which data element you are commenting on.
 
-<a class="usa-button usa-button-secondary" target="_blank" href="https://github.com/OFFM-MCAB/grantsfeedback/issues/new/choose" onclick="ga('send', 'event', 'Viewed on Github', 'Clicked View on Github from inside site');">Leave Feedback</a>
-
+<a href="https://github.com/OFFM-MCAB/grantsfeedback/issues/new/choose" class="btn btn-primary" role="button">Leave Feedback</a>
 <script type="text/javascript">
 
 $(document).ready(function() {
