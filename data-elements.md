@@ -31,9 +31,9 @@ $(document).ready(function() {
 
 <div id="table-container"></div>
 
-You may download the use case submissions we received. 
+Below you can download the use cases for these data elements that will eventually become data standards for grants management. You can also download the entire draft data elements list. 
 
-<a href="/assets/docs/use-case-summaries.pdf" class="usa-button">Download Use Case Summaries PDF</a> <a href="/data/GRM-Data-View-For-Public-Comment-1.csv" class="usa-button">Download Use Case Summaries PDF</a>
+<a href="/assets/docs/use-case-summaries.pdf" class="usa-button">Download Use Case Summaries PDF</a> <a href="/data/GRM-Data-View-For-Public-Comment-1.csv" class="usa-button">Download Draft Data Elements List</a>
 
 
 
