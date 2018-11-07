@@ -7,9 +7,13 @@ title: Draft Grants Management Data Elements Feedback
 page: child
 ---
 
-## Federal Grants Data Management Data Elements Feedback 
+## Give Feedback on the Federal Grants Management Data Standards 
 
-The Results-Oriented Accountability for Grants Cross Agency Priority Goal Team is soliciting feedback on the Federal Draft Grants Management Data Standards in order to develop and implement core grants management data standards and modernize information technology solutions. This information will be used to contribute to a future state where grants data are interoperable, there are fewer internal and public-facing grants management systems, and Federal awarding agencies and recipients leverage data to successfully implement a risk-based, data-driven approach to managing Federal grants. These draft data standards are a pre-decisional draft and should not be interpreted as setting policy or official guidance. 
+You can provide feedback on the Federal Grants Management Draft Data Standards in four easy steps! 
+1.	Sign up for a FREE GitHub Account. If you already have a GitHub Account skip to Step 2.
+2.	Review the 418 Data Standards Elements in the table below. Use the search box in the top right corner to filter by keyword.
+3.	Select the “Leave Feedback” button and add comments in this new tab. Ensure you reference which data element(s) you are commenting on. 
+4.	Select “Submit New Issue” to submit your comments.
 
 ## How You Can Help 
 
@@ -32,8 +36,8 @@ $(document).ready(function() {
 
 Below you can download the use cases for these data elements that will eventually become data standards for grants management. You can also download the entire draft data elements list. 
 
-<a href="/assets/docs/use-case-summaries.pdf" class="usa-button">Download Use Case Summaries PDF</a> <a href="/data/GRM-Data-View-For-Public-Comment-1.csv" class="usa-button">Download Draft Data Elements List</a>
+<a href="/assets/docs/use-case-summaries.pdf"  class="btn btn-primary">Download Use Case Summaries PDF</a> <a href="/data/GRM-Data-View-For-Public-Comment-1.csv"  class="btn btn-secondary">Download Draft Data Elements List</a>
 
-
+Join the Conversation!
 
 
