@@ -7,19 +7,15 @@ title: Draft Grants Management Data Elements Feedback
 page: child
 ---
 
-# Give Feedback on the Federal Grants Management Data Standards 
+## Give Feedback on the Federal Grants Management Data Standards 
 
 You can provide feedback on the Federal Grants Management Draft Data Standards in four easy steps! 
-1.	Sign up for a FREE GitHub Account. If you already have a GitHub Account skip to Step 2.
+1.	Sign up for a [FREE GitHub Account](https://github.com/). If you already have a GitHub Account skip to Step 2.
 2.	Review the 418 Data Standards Elements in the table below. Use the search box in the top right corner to filter by keyword.
 3.	Select the “Leave Feedback” button and add comments in this new tab. Ensure you reference which data element(s) you are commenting on. 
 4.	Select “Submit New Issue” to submit your comments.
 
-## How You Can Help 
-
-To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs. Please note that to provide feedback you must use GitHub. If you don’t have a GitHub account please follow use this [sign up link](https://github.com/). 
-
-Please ensure that you reference which data element you are commenting on.
+To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs. Please ensure that you reference which data element you are commenting on.
 
 <a href="https://github.com/OFFM-MCAB/grantsfeedback/issues/new/choose" class="btn btn-primary" role="button">Leave Feedback</a>
 
