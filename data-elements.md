@@ -24,7 +24,7 @@ To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs
 
 $(document).ready(function() {
     init_table({
-     csv_path: '../data/GRM-Data-View-For-Public-Comment-1.csv',',
+     csv_path: './data/GRM-Data-View-For-Public-Comment-1.csv',',
      element: 'table-container',
     });
 } );
