@@ -42,11 +42,11 @@ Below you can download the use cases for these data elements that will eventuall
 
 Do you have questions about the process for giving feedback? Call into our Office Hours 
 Hosted by the Results-Oriented for Accountability Grants CAP Goal Team to ask any questions you may have. 
-●	November 29, Time TBD
-●	December 6, Time TBD
-●	December 13, Time TBD 
+* November 29, Time TBD
+* December 6, Time TBD
+* December 13, Time TBD 
 
 
 To join an Office Hour Session use the following number:
-●	 1-866-928-2008; 8514834# 
+* 1-866-928-2008; 8514834# 
 
