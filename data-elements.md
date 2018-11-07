@@ -22,11 +22,13 @@ To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs
 Please ensure that you reference which data element you are commenting on.
 
 <a href="https://github.com/OFFM-MCAB/grantsfeedback/issues/new/choose" class="btn btn-primary" role="button">Leave Feedback</a>
+
+
 <script type="text/javascript">
 
 $(document).ready(function() {
     init_table({
-     csv_path: './data/GRM-Data-View-For-Public-Comment-1.csv',
+     csv_path: '../data/GRM-Data-View-For-Public-Comment-1.csv',',
      element: 'table-container',
     });
 } );
