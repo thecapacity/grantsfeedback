@@ -38,7 +38,7 @@ Below you can download the use cases for these data elements that will eventuall
 
 <a href="/assets/docs/use-case-summaries.pdf"  class="btn btn-primary">Download Use Case Summaries PDF</a> <a href="/data/GRM-Data-View-For-Public-Comment-1.csv"  class="btn btn-secondary">Download Draft Data Elements List</a>
 
-##Join the Conversation!
+## Join the Conversation!
 
 Do you have questions about the process for giving feedback? Call into our Office Hours 
 Hosted by the Results-Oriented for Accountability Grants CAP Goal Team to ask any questions you may have. 
